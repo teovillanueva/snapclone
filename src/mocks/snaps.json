@@ -1,0 +1,26 @@
+[
+	{
+		"id": 523,
+		"user_id": 234,
+		"media": {
+			"uri": "https://c8.alamy.com/compes/re158k/adolescente-teniendo-un-selfie-con-su-nuevo-iphone-x-re158k.jpg",
+			"type": "image"
+		}
+	},
+	{
+		"id": 352,
+		"user_id": 234,
+		"media": {
+			"uri": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1527741289000/photosp/d0233b59-97c4-4915-85ba-9c1d53981d25/d0233b59-97c4-4915-85ba-9c1d53981d25.jpg",
+			"type": "image"
+		}
+	},
+	{
+		"id": 234,
+		"user_id": 153,
+		"media": {
+			"uri": "https://static.boredpanda.com/blog/wp-content/uploads/2018/05/emilia-clarke-making-stock-photos-5-5b0801c7504b2__700.jpg",
+			"type": "image"
+		}
+	}
+]
